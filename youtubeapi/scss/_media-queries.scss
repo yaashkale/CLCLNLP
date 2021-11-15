@@ -1,0 +1,57 @@
+/*----------  Break Point 1 - 500px  ----------*/
+
+
+@media only screen and (max-width: 500px) {
+    
+    body {font-size:14px}
+    
+    article {padding: 0px 8px}
+    
+    .vid-details {padding: 14px}
+
+    .inner-header,
+    .inner-footer,
+    .inner-section,
+    main
+    {border: none}
+
+    .inner-header {border-bottom: 1px solid $border;}
+
+    main {padding: 330px 4px 10px}
+
+    .videoWrapper {padding-bottom: 53%}
+}
+
+
+/*----------  Break Point 1 - 430px  ----------*/
+
+
+@media only screen and (max-width: 430px) {
+
+    main {padding: 290px 4px 10px}
+}
+
+
+/*----------  Break Point 1 - 400px  ----------*/
+
+
+@media only screen and (max-width: 400px) {
+    
+        main {padding: 270px 4px 10px}
+    }
+    
+
+
+/*----------  Orientation  ----------*/
+@media screen and (max-width: 700px) and (orientation: landscape) {
+
+    footer, section {position: static}
+
+    section {padding-top: 50px}
+    
+    article {padding: 0px 8px}
+    
+    .vid-details {padding: 14px}
+
+    main {padding: 20px 4px 10px}
+  }
