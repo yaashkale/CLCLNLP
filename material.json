@@ -1,12 +1,13 @@
 {
-    "cpp": [{"title": "Introduction to C Programming","vlink":"PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C","dlink":"","icon":""},
-    {"title": "Designing GUI applications with GTK","vlink":"PL6A4216D6C8E00CFC"}]
-    ,"java":[{"title":"Introduction to Java Programming","vlink":"","dlink":"","img":""},
-    {"title":"","vlink":"","dlink":"","img":""},
-    {"title":"","vlink":"","dlink":"","img":""},
-    {"title":"","vlink":"","dlink":"","img":""}]
-    ,"python":[{"title":"","vlink":"","dlink":"","img":""},
-        {"title":"","vlink":"","dlink":"","img":""},
-        {"title":"","vlink":"","dlink":"","img":""},
-        {"title":"","vlink":"","dlink":"","img":""}]
+    "cpp": [
+    {"title": "Introduction to C Programming","vlink":"PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C"},
+    {"title": "Designing GUI applications with GTK","vlink":"PL6A4216D6C8E00CFC"}
+    ],
+    "java":[
+    {"title":"Introduction to Java Programming","vlink":""}
+    ],
+    "python":
+    [
+    {"title": "Introdution to python programming","vlink":""}
+    ]
 }
